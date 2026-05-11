@@ -1,8 +1,8 @@
-Here’s a cleaner, more professional and “project-ready” version of your README, while keeping your original vibe but elevating it to something you'd see on a real GitHub distro:
+
 
  
 
-🔐 CipherOS
+ # 🔐 CipherOS
 
 "Built for the ones who know."
 
